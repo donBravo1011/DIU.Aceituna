@@ -2,7 +2,7 @@
 
 
 
-- [User research](P1/Usability-review.pdf). 
+- [User research](Usability-review.pdf). 
 
   Conclusión: Hemos realizado un análisis en profundidad de los posibles usuarios, las mejoras a realizar, las diferentes visiones que hay de un mismo producto y los tipos de investigación tanto cuantitativo como cualitativo y su aplicación en usuarios para obtener feedback.
   
@@ -18,6 +18,6 @@
 
   Conclusión: Después de un análisis de los puntos débiles de la web hemos entrado en ellas con nuestras personas creadas e intentamos realizar una reserva de un taller como si estuviéramos en su piel. Hemos experimentado cada una de las dificultades que sentirán ellos y hemos propuesto algunas simples soluciones que arreglaran estos problemas.
   
-- Revisión de Usabilidad
+- [Revisión de Usabilidad](Usability-review.pdf).
 
    Conclusión: Simplemente hemos sometido la web de Granada Cooking que hemos encontrado a las pruebas que nos propone el excel y hemos ido dando puntuaciones a las diferentes pruebas, indicando algún comentario si esta lo necesitaba para aclarar el porqué de nuestra puntuación.
