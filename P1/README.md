@@ -13,7 +13,8 @@
 - 2 Personas
 
   [Pablo](Persona 1 [DIU23] - Pablo.pdf).
-   [María del Carmen](Persona 1 [DIU23] - María del Carmen.pdf).
+
+  [María del Carmen](Persona 1 [DIU23] - María del Carmen.pdf).
 
   Conclusión: Nos hemos centrado en crear dos perfiles naturales (Pablo y Mari Carmen) los cuales por su entorno o aficiones (la cocina específicamente) podrían estar interesados en el mercado de Tours Gastronómicos en Granada y por tanto han acabado entrando en estas páginas web en busca de adquirir sus ofertas.
   
