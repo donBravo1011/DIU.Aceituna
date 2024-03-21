@@ -12,17 +12,17 @@
   
 - # 2 Personas
 
-  [Pablo](Persona2_Pablo.pdf)
+  ## [Pablo](Persona2_Pablo.pdf)
 
-  [María del Carmen](Persona1_MCarmen.pdf)
+  ## [María del Carmen](Persona1_MCarmen.pdf)
 
   Conclusión: Nos hemos centrado en crear dos perfiles naturales (Pablo y Mari Carmen) los cuales por su entorno o aficiones (la cocina específicamente) podrían estar interesados en el mercado de Tours Gastronómicos en Granada y por tanto han acabado entrando en estas páginas web en busca de adquirir sus ofertas.
   
 - # 2 User Journey Map  ( 1 por persona)
 
-  [Pablo](User_Journey_Map_Pablo.pdf)
+  ## [Pablo](User_Journey_Map_Pablo.pdf)
 
-  [María del Carmen](User_Journey_Map_MCarmen.pdf)
+  ## [María del Carmen](User_Journey_Map_MCarmen.pdf)
   
   Conclusión: Después de un análisis de los puntos débiles de la web hemos entrado en ellas con nuestras personas creadas e intentamos realizar una reserva de un taller como si estuviéramos en su piel. Hemos experimentado cada una de las dificultades que sentirán ellos y hemos propuesto algunas simples soluciones que arreglaran estos problemas.
   
