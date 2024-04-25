@@ -11,7 +11,7 @@ práctica anterior.
 
 ### PROPUESTA DE VALOR
 * [ScopeCanvas](ScopeCanvas.png)
-
+![Hola](ScopeCanvas.png)
 Nuestra empresa se va a llamar Cook it: Para desarrollar nuestra página hemos ideado una empresa especializada en cursos gastronómicos de todos tipos de culturas, tanto española como internacional, además de ofertar catas de comida para aquellas personas que no estén interesadas en cocinar ellos mismos esta comida. Además todas las personas que adquieran un producto recibirán en su cuenta personal una serie de fotos que se realizan en el curso para recordar la experiencia, estas fotos las realizan fotógrafos experimentados asociadas con nuestra empresa.
 
 Nuestro propósito principal es el de impartir nuestra pasión por la cocina y proporcionar a cualquier persona con el deseo de  mejorar o aprender diferentes formas de cocinar comida sana y/o de diferentes culturas, además de promover la cocina típica de Granada y el turismo. Tambíen buscamos conectar a las personas con sus seres queridos, de forma que hay talleres que se realizan en parejas.
