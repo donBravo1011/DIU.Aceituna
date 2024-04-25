@@ -25,16 +25,20 @@ Nuestro propósito principal es el de impartir nuestra pasión por la cocina y p
 
 * User flow de la tarea ‘Uso de la sección de ayuda ‘:
 * [User/Task flow1](UserFlow_AYUDA.png)
+*  ![Hola](UserFlow_AYUDA.png)
 * User flow de la tarea ‘ Crearse una cuenta‘:
 * [User/Task flow2](UserFlow_CREARCUENTA.png)
+*  ![Hola](UserFlow_CREARCUENTA.png)
 * User flow de la tarea ‘Ver horario’:
 * [User/Task flow3](UserFlow_HORARIO.png)
+* ![Hola](UserFlow_HORARIO.png)
   
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* [Sitemap](Sitemap.png) 
+* [Sitemap](Sitemap.png)
+ ![Hola](Sitemap.png)
 * [Labelling](Labeling.pdf)
 
 
