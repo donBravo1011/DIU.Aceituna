@@ -49,7 +49,7 @@ Nuestro propósito principal es el de impartir nuestra pasión por la cocina y p
 [Wireframe en figma:](BocetosFigma.pdf)
 
 
-[Grid Layout con diseño RESPONSIVE]()
+[Grid Layout con diseño RESPONSIVE](https://www.figma.com/file/yQqtolZnUfSgGdsxju0rNY/Responsive?type=design&node-id=0%3A1&mode=design&t=wBgLhXzqtOKZM0D3-1)
 
 
 
