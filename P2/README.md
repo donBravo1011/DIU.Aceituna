@@ -21,21 +21,40 @@ Nuestro propósito principal es el de impartir nuestra pasión por la cocina y p
 ### TASK ANALYSIS
 
 * [User Task Matrix](UserTaskMatrix.pdf)
+* A la hora de ponderar las actividades que puede realizar el usuario hemos asignado un valor a cada importancia Alto = 3, Medio = 2 y Bajo = 1.
+
+* User flow de la tarea ‘Uso de la sección de ayuda ‘:
 * [User/Task flow1](UserFlow_AYUDA.png)
+* User flow de la tarea ‘ Crearse una cuenta‘:
 * [User/Task flow2](UserFlow_CREARCUENTA.png)
+* User flow de la tarea ‘Ver horario’:
 * [User/Task flow3](UserFlow_HORARIO.png)
   
-A la hora de ponderar las actividades que puede realizar el usuario hemos asignado un valor a cada importancia Alto = 3, Medio = 2 y Bajo = 1.
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+* [Sitemap](Sitemap.png) 
+* [Labelling](Labeling.pdf)
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
+
+[Primer esbozo a papel:](Bocetos.pdf)
+
+[Wireframe en figma:](BocetosFigma.pdf)
+
+
+[Grid Layout con diseño RESPONSIVE]()
+
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Esta práctica nos ha permitido profundizar más en el desarrollo de interfaces de tal forma que el empathy map nos permite conocer más el punto de vista de los usuarios que van a utilizar nuestra página y van a adquirir nuestros productos.También hemos realizado nuestra propuesta de valor en la que establecemos sobre que vamos a desarrollar nuestro proyecto.
+
+Hemos empezado a desarrollar nuestro proyecto que es una página dedicada a los talleres y catas gastronómicas, la cual hemos decidido llamar Cook it, nuestro principal propósito es el de acercar la gastronomia a todo tipo de personas y ayudarles a comer de forma más saludable y variada.
+
+Con el task analysis mostramos todas las tareas que se pueden realizar en nuestra página, ordenadas de mayor a menor importancia, las 3 más importantes son: Ver horario, Adquirir Curso y Finalizar Compra.
+
+Nuestro sitemap está dividido en Usuarios, Ayuda, Galería, Calendario, Actividades, Carrito y Búsqueda.
+
