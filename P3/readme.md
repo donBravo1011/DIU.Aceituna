@@ -52,10 +52,19 @@ Respecto a los Guide Lines utilizados en relacion a tipografia, iconos, colores,
 ## Mockup: LAYOUT HI-FI
 Los diseños se pueden ver [aquí](https://www.figma.com/proto/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=12-2886&t=afO7uEGK5KrMWpPM-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=45%3A608) Recuerde darle a Restart para ver nuestra pantalla de carga.
 
-Hemos hecho un video para que vea como se utiliza y le ayude a que sea mas intuitivo. [Aqui]()
+Hemos hecho un video para que vea como se utiliza y le ayude a que sea mas intuitivo. [Aqui](video.mp4)
 
 ## Documentación: Publicación del Case Study
 
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+El caso de estudio está reflejado en el [readme principal](../README.md)
+
+## Conclusion 
+
+Esta práctica ha sido una experiencia completa y bien estructurada en todos los aspectos. Apreciamos el enfoque secuencial y iterativo que hemos seguido, ya que nos permitió aplicar lo aprendido en cada etapa del proyecto, construyendo sobre los logros anteriores.
+
+La continuidad con la práctica anterior fue especialmente valiosa, ya que nos permitió consolidar y ampliar nuestros conocimientos de manera coherente y progresiva. Esto contrasta positivamente con experiencias anteriores donde la falta de continuidad dificultaba la comprensión global del proceso.
+
+En cuanto a la carga de trabajo, reconocemos que podría haberse distribuido de manera más específica en diferentes prácticas, lo que habría permitido abordar cada parte con mayor profundidad y detalle. Esta es una reflexión importante para futuros proyectos, ya que una distribución más específica podría mejorar la comprensión y la efectividad del aprendizaje.
+
+En general, consideramos que esta práctica ha sido bastante completa y útil. Nos ha proporcionado una visión integral del proceso de diseño de un landing page y nos ha dotado de habilidades y conocimientos que podremos aplicar en proyectos futuros.
