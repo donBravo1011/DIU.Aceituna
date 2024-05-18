@@ -233,9 +233,25 @@ Por ultimo hemos añadido un video para que sea mas intuitivo para nuevos usuari
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+### Inspiración
+Cook It surge a raíz de querer ofrecer, tanto a los usuarios que disfrutan de nuestros talleres de cocina como a usuarios externos, nuevas experiencias culinarias y conocimientos gastronómicos que podrán adquirir gracias a este nuevo enfoque. Al permitir el acceso a usuarios externos a la web de Cook It, se realiza una publicidad indirecta de nuestros servicios, atrayendo a más personas interesadas en la cocina. Al inicio, nos encontramos con las experiencias de María del Carmen y Pablo, personas apasionadas por la cocina y deseosas de aprender nuevas técnicas y recetas.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+### Inicio del Proyecto
+Estas dos personas, María del Carmen y Pablo, junto a nosotros, generamos diferentes ideas que, con la ayuda de herramientas como la malla receptora y el scope canvas, nos permitieron desarrollar un diseño propio. Lo primero que hicimos fue crear unos bocetos a mano alzada, esbozando nuestras primeras ideas para la extensión web de Cook It.
+
+### Diseño
+Con las ideas más claras y la estructura y funcionalidades de la web definidas, comenzamos a dotar de personalidad al proyecto mediante un moodboard que recogiese todos los elementos que queríamos reflejar en nuestro proyecto, dotando a nuestra web de una identidad única. Este moodboard incluye imágenes, tipografías y otros elementos visuales. El siguiente paso fue diseñar una landing page que atrajera a clientes potenciales, haciendo de esta página un sitio sencillo y fácil de leer, dando mucha importancia al componente visual. Por último, antes de darle la apariencia final con Protopie a la aplicación, analizamos patrones de diseño que se ajustaran a las necesidades de los usuarios.
+
+### Conclusión
+Tras crear personajes de usuario, específicamente María del Carmen y Pablo, y usarnos a nosotros mismos también como inspiración, hemos sido capaces de desarrollar un prototipo fiel de lo que sería nuestra webApp para Cook It. Gracias a esta actividad, hemos aprendido a crear un diseño y un estilo que refleje la identidad de nuestro proyecto, utilizando técnicas de branding y diseño. Hemos conseguido crear una webApp adaptada a los usuarios que cubre sus necesidades básicas y mejora su experiencia en nuestros talleres de cocina.
+
+
+
+
+
+
+
+
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
