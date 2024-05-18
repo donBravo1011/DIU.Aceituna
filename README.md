@@ -43,6 +43,8 @@ Nuestro User Reseach Plan habla sobre que va nuestro proyecto, los objetivos que
 
 En cuanto a las aplicaciones asignadas tenemos [Pilsa Educa](https://pilsaeduca.com/) y [Granada Cooking](https://granadacooking.com/). Hemos elegido las dos para compararlas con un tercer competidor en el secto que es [ESPAI Granda](https://www.espaigranada.com/).
 
+Nuestro [Competitive Analysis](P1/Competitor_Analysis.pdf)
+
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
