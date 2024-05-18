@@ -18,7 +18,7 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 
 
 **Logotipo:** 
-![Logo](P3/Logo.png)
+![Logo](P3/logo.jpg)
 
 **Miembros**
  * :bust_in_silhouette:   Miguel Bravo Campos     
@@ -30,35 +30,43 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
+En esta etapa hemos realizado un análisis de aplicaciones relacionadas con talleres de cocina. Hemos analizado en profundidad diferentes aplicaciones y cómo unas personas ficticias la utilizarían.
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+Nuestro User Reseach Plan habla sobre que va nuestro proyecto, los objetivos que tiene asi como los Research Methods,Focus Areas y por ultimo los diferentes puntos de vista desde varias personas.
+[Mas informacion](P1/User-Research.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+En cuanto a las aplicaciones asignadas tenemos [Pilsa Educa](https://pilsaeduca.com/) y [Granada Cooking](https://granadacooking.com/). Hemos elegido las dos para compararlas con un tercer competidor en el secto que es [ESPAI Granda](https://www.espaigranada.com/).
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Hemos seleccionado dos personas para poder abarcar todos los tipos de usuarios que utilizarían la aplicación y que son perfiles comunes como puede ser cualquier persona.
+
+Tenemos a [Maria del Carmen](P1/Persona1_MCarmen.pdf) 
+
+Tambien tenemos a [Pablo](P1/Persona1_Pablo.pdf) 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
+Gracias al User Journey Map podemos valorar cómo se siente el usuario utilizando la aplicación en casos de uso habituales.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Maria del Carmen quiere ir con su familia en su dia libre del trabajo a tener un buen rato para recordar y va a buscar reservar un curso. [Journey Map](P1/User_Journey_Map_MCarmen.pdf)
+
+Pablo quiere regalarle a su novia por su aniversario una experiencia inolvidable y tambien va a realizar la adquisicion de un cursod de cocina. [Journey Map](P1/User_Journey_Map_Pablo.pdf)
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Nuestro Usability Review lo hemos hecho sobre Granada Cooking y podeis verlo [aqui](P1/Usability-review.pdf)
+
+La valoracion final: 68 
 
 
 ## Paso 2. UX Design  
