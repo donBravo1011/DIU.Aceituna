@@ -1,8 +1,8 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Talleres de Cocina ) 
 
-Grupo: DIU1_Acceituna.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1_Aceituna.  Curso: 2023/24 
+Updated: 18/5/2024
 
 **Proyecto:** 
 # COOK IT!
@@ -79,47 +79,93 @@ Nuestro Usability Review lo hemos hecho sobre Granada Cooking y podeis verlo [aq
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
+Comentarios con un diagrama sobre los aspectos más destacados a modo de conclusión de la práctica anterior:
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+**Interesante**
 
+La página tiene una estética agradable.
+Los usuarios tienen expectativas positivas sobre la calidad y autenticidad de las clases y productos.
+Hay confianza tras leer las reseñas de otros usuarios.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+**Críticas**
 
+Falta de información clara sobre los cursos disponibles.
+Problemas con el calendario que causa confusión y retrasos.
+La interfaz de usuario no resalta adecuadamente las opciones importantes como las fechas y horas disponibles.
+
+**Preguntas**
+
+¿Cómo podemos mejorar la visibilidad de los cursos disponibles?
+¿Qué otras funcionalidades podríamos agregar para facilitar la navegación y reserva?
+
+**Nuevas ideas**
+
+Implementar un menú más intuitivo y tiempos de carga más rápidos.
+Añadir una función que distinga claramente entre cursos disponibles y pasados.
+Mejorar la función de búsqueda de la página web.
+Ofrecer ayuda en línea 24/7.
+
+Nuestro [Empathy map](P2/EmpathyMap.pdf).
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Hacer el proceso de cocina saludable e internacional accesible a cualquier persona, conectar a la gente con sus seres queridos a traves de la cocina.
+Derribar barreras que impiden a las personas disfrutar de una alimentacion saludable y diversa. Permitir a la gente mejorar su habilidad culinaria sin importar el nivel en el que inicien.
+
+Esta es nuestra propuesta de valor: [Mas aqui](P2/ScopeCanvas.png)
+
+![Scope](P2/ScopeCanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+**User Map:** Es una técnica de diseño que representa visualmente las interacciones y el viaje de los usuarios a través de un producto o servicio. Incluye las acciones, emociones y pensamientos de los usuarios en cada punto de contacto con el sistema, ayudando a entender sus necesidades y comportamientos en diferentes etapas.
+
+**Task Flow:** Técnica de diseño que define las tareas necesarias para que los usuarios alcancen sus objetivos. Muestra de manera visual las tareas que los usuarios deben realizar y las relaciones entre ellas, como la secuencia de pasos y los requisitos previos. Se utilizan diagramas para representar estos flujos, asegurando procesos intuitivos y eficientes.
+
+[Nuestro User Task Matrix](P2/UserTaskMatrix.pdf)
+
+**Hemos realizado 3 Task Flow:**
+
+# 1-Ayuda en linea
+![Ayuda en Linea](P2/UserFlow_AYUDA.png)
+# 2-Crear cuenta
+![Cuenta](P2/UserFlow_CREARCUENTA.png)
+# 3-Entrar en horarios
+![Horario](P2/UserFlow_HORARIO.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+En esta sección, se identifican y listan los términos clave que los usuarios emplean o esperan encontrar durante su interacción con el sistema. Estos términos son fundamentales para asegurar una comunicación clara y efectiva, mejorando la usabilidad y la experiencia del usuario.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Nuestro [Sitemap](P2/Sitemap.png) y el [Labeling](P2/Labeling.pdf)
+
+**Sitemap**
+![Sitemap](P2/Sitemap.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Tenemos dos formas de mostrar los bocetos una es a papel que la podeis ver [aqui](P2/Bocetos.pdf).
+
+Otra version de los bocetos la hemos hecho en [Figma](P2/BocetosFigma.png).
+
+### Los bocetos muestran las siguiente actividades:
+
+**-Pantalla de inicio**
+
+**-Horario**
+
+**-Adquirir curso**
+
+**-Finalizar compra**
+
+![Bocetos](P2/BocetosFigma.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
