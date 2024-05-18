@@ -53,7 +53,7 @@ Hemos seleccionado dos personas para poder abarcar todos los tipos de usuarios q
 
 Tenemos a [Maria del Carmen](P1/Persona1_MCarmen.pdf) 
 
-Tambien tenemos a [Pablo](P1/Persona1_Pablo.pdf) 
+Tambien tenemos a [Pablo](P1/Persona2_Pablo.pdf) 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
