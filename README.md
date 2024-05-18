@@ -18,6 +18,7 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 
 
 **Logotipo:** 
+
 ![Logo](P3/logo.jpg)
 
 **Miembros**
