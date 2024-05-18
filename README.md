@@ -1,29 +1,30 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Talleres de Cocina ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU1_Acceituna.  Curso: 2023/24 
 Updated: 11/2/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**Proyecto:** 
+# COOK IT!
 
-Descripción: 
+**Descripción:** 
 
->>> Describa la idea de su producto en la práctica 2 
+**COOK IT!** es una aplicación diseñada para todos los amantes de la cocina y las catas, sin importar su nivel de experiencia. Nuestra plataforma ofrece una amplia gama de talleres y eventos gastronómicos, desde clases de cocina tradicional hasta catas de vinos y cervezas artesanales.**COOK IT!** se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Buscamos fomentar una comunidad de usuarios y proveedores comprometidos con la calidad y la autenticidad. Los usuarios pueden descubrir talleres impartidos por chefs locales, sommeliers y expertos gastronómicos, conectándose con personas que comparten su pasión por la buena comida y las bebidas de calidad.
 
-Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desean expandir sus conocimientos culinarios y disfrutar de experiencias gastronómicas auténticas, todo dentro de un entorno inclusivo y accesible para todos.
+
+
+
+**Logotipo:** 
+![Logo](P3/Logo.png)
+
+**Miembros**
+ * :bust_in_silhouette:   Miguel Bravo Campos     
+ * :octocat: Elena Vallejo Ruiz
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
