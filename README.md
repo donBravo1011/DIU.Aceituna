@@ -69,6 +69,7 @@ Pablo quiere regalarle a su novia por su aniversario una experiencia inolvidable
 Nuestro Usability Review lo hemos hecho sobre Granada Cooking y podeis verlo [aqui](P1/Usability-review.pdf)
 
 La valoracion final: 68 
+
 Comentarios: la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios nuevos. Los usuarios deben de ser capaces de utilizar la aplicación con relativa facilidad para la mayoría de tareas fundamentales. Sin embargo, tareas como la busqueda de talleres, la seleccion de fechas en el calendario se hacen muy poco intuitivas y favorece a que los usuarios pierdan el interes por la pagina.
 
 
