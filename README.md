@@ -189,7 +189,7 @@ Despues de probarlo en varias redes sociales puedo confirmar que se puede utiliz
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Nuestro landing page esta diseñado para captar la atencion de los posibles clientes de forma muy rapida y mostrarles de forma casi instantanea los servicios que ofrecemos para que no tenga que ir buscando por todo el landing page cada dato por separado. Finalmente en la parte final encontramos los enlaces a nuestra aplicacion desde las principales tiendas de aplicaciones.
+Nuestro landing page esta diseñado para captar la atencion de los posibles clientes de forma muy rapida y mostrarles de forma casi instantanea los servicios que ofrecemos para que no tenga que ir buscando por todo el landing page cada dato por separado. Finalmente en la parte final encontramos los enlaces a nuestra aplicacion desde las principales tiendas de aplicaciones. [Landing Page](P3/LANDINGPAGE_COOKIT.png)
 
 ![Moodboard](P3/LANDINGPAGE_COOKIT.png)
 
