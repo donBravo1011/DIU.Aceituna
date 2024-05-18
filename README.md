@@ -196,13 +196,38 @@ Nuestro landing page esta diseñado para captar la atencion de los posibles clie
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos seleccionado la fuente Nunito para nuestro proyecto debido a su legibilidad optimizada en pantallas digitales y su capacidad para mantener la coherencia visual conforme a los estándares de Google Material Design. La paleta de colores, compuesta por tonos naranja y verde, fue elegida estratégicamente para evocar frescura, vitalidad y una conexión visual con la cocina y los alimentos. Además, los iconos seleccionados complementan nuestra paleta de colores y estilo general, proporcionando una interfaz intuitiva y atractiva. Finalmente, hemos implementado diversos patrones de diseño de interfaz de usuario, como barras de navegación, botones, carruseles y campos de texto, para mejorar la usabilidad y la experiencia del usuario.[Guidelines](P3/GUIDELINES.pdf)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+**Se han elaborado las pantallas principales que permiten ver cómo se interactuaría con la app:**
+
+
+-Main Page
+
+-Busqueda
+
+-Calendario
+
+-Perfil
+
+-Dentro del Perfil
+
+-Cesta
+
+-Galeria
+
+-Ayuda
+
+-Actividad
+
+
+Se pueden encontrar por separado [aqui](https://www.figma.com/design/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=0%3A1&t=fm5Lm63HSaQCUMCi-1).
+
+Tambien se pueden ver de forma interactiva [aqui](https://www.figma.com/proto/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=12-2886&t=oyrZY8wBJfQfFISE-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=45%3A608).
+
+Por ultimo hemos añadido un video para que sea mas intuitivo para nuevos usuarios el uso de nuestra aplicacion lo pueden ver [aqui](P3/video.mp4).
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
