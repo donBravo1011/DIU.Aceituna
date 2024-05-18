@@ -176,16 +176,22 @@ Otra version de los bocetos la hemos hecho en [Figma](P2/BocetosFigma.png).
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para el moodboard hemos elegido unas fotos que nos inspiraban y nos transmiten sensaciones de familiaridad y cercania. Con esto hemos elegido una paleta de colores que permita a los usuarios encontrar el punto de asociar los colores a la comida, la naturaleza, sus propias experiencias. Hemos seleccionado dos fuentes que sean muy legibles y sencillas y seleccionado unos iconos para poder crear nuestros diseños. Además, hemos añadido unos comentarios que muestran cómo queremos que los usuarios nos identifiquen. [Nuestro Moodboard](P3/Moodboard.png)
 
+Nuestro logo es:
+
+![Logo](P3/logo.jpg)
+
+Despues de probarlo en varias redes sociales puedo confirmar que se puede utilizar como foto de perfil de muchas de ellas y encajaria en perfectas condiciones.Lo que hace que con un logo tan simple y llamativo creariamos una marca muy bien definida y facil de reconocer.
+
+![Moodboard](P3/Moodboard.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Nuestro landing page esta diseñado para captar la atencion de los posibles clientes de forma muy rapida y mostrarles de forma casi instantanea los servicios que ofrecemos para que no tenga que ir buscando por todo el landing page cada dato por separado. Finalmente en la parte final encontramos los enlaces a nuestra aplicacion desde las principales tiendas de aplicaciones.
 
->>> Plantear Landing Page 
+![Moodboard](P3/LANDINGPAGE_COOKIT.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
