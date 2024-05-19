@@ -113,6 +113,8 @@ Ofrecer ayuda en línea 24/7.
 A la hora de desarrollar nuestra propuesta a partir de la experiencia adquirida hemos decidido realizar un Empathy Map, el cual refleja el comportamiento de los usuarios de la práctica anterior. A la hora de desarrollar las necesidades de nuestros usuarios hemos seguido como plantilla la pirámide de necesidades de Maslow.
 Nuestro [Empathy map](P2/EmpathyMap.pdf).
 
+![Empathy Map](P2/EmpathyMap.png)
+
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
