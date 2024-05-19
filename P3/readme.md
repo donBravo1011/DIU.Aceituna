@@ -50,9 +50,35 @@ Respecto a los Guide Lines utilizados en relacion a tipografia, iconos, colores,
 * [GuideLines](GUIDELINES.pdf)
   
 ## Mockup: LAYOUT HI-FI
-Los diseños se pueden ver [aquí](https://www.figma.com/proto/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=12-2886&t=afO7uEGK5KrMWpPM-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=45%3A608) Recuerde darle a Restart para ver nuestra pantalla de carga.
 
-Hemos hecho un video para que vea como se utiliza y le ayude a que sea mas intuitivo. [Aqui](layout.mp4)
+**Se han elaborado las pantallas principales que permiten ver cómo se interactuaría con la app:**
+
+
+-Main Page
+
+-Busqueda
+
+-Calendario
+
+-Perfil
+
+-Dentro del Perfil
+
+-Cesta
+
+-Galeria
+
+-Ayuda
+
+-Actividad
+
+![Mockup](P3/layout.png)
+
+Se pueden encontrar por separado [aqui](https://www.figma.com/design/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=0%3A1&t=fm5Lm63HSaQCUMCi-1).
+
+Tambien se pueden ver de forma interactiva [aqui](https://www.figma.com/proto/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=12-2886&t=oyrZY8wBJfQfFISE-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=45%3A608).
+
+Por ultimo hemos añadido un video para que sea mas intuitivo para nuevos usuarios el uso de nuestra aplicacion lo pueden ver [aqui](P3/video.mp4).
 
 
 ## Documentación: Publicación del Case Study
