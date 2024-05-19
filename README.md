@@ -1,5 +1,5 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Talleres de Cocina ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Talleres de Cocina) 
 
 Grupo: DIU1_Aceituna.  Curso: 2023/24 
 Updated: 18/5/2024
@@ -22,8 +22,8 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 ![Logo](P3/logo.jpg)
 
 **Miembros**
- * :bust_in_silhouette: Miguel Bravo Campos     
- * :bust_in_silhouette: Elena Vallejo Ruiz
+ * :bust_in_silhouette: Miguel Bravo Campos [donBravo1011](https://github.com/donBravo1011)     
+ * :bust_in_silhouette: Elena Vallejo Ruiz [elenavallejor](https://github.com/elenavallejor)
 
 ----- 
 
