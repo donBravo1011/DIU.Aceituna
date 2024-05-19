@@ -54,7 +54,7 @@ Tras analizar 3 paginas web diseñadas por diferentes compañias hemos llegado a
 Nos hemos centrado en crear dos perfiles naturales (Pablo y Mari Carmen) los cuales por su entorno o aficiones (la cocina específicamente) podrían estar interesados en el mercado de Tours Gastronómicos en Granada y por tanto han acabado entrando en estas páginas web en busca de adquirir sus ofertas.
 
 Tenemos a [Maria del Carmen](P1/Persona1_MCarmen.pdf) 
-
+![MCarmen](P1/MCarmen.png)
 Tambien tenemos a [Pablo](P1/Persona2_Pablo.pdf) 
 ![Pablo](P1/Pablo.png)
 
