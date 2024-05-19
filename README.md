@@ -189,7 +189,7 @@ Nuestro logo es:
 
 ![Logo](P3/logo.jpg)
 
-Despues de probarlo en varias redes sociales puedo confirmar que se puede utilizar como foto de perfil de muchas de ellas y encajaria en perfectas condiciones.Lo que hace que con un logo tan simple y llamativo creariamos una marca muy bien definida y facil de reconocer.
+Despues de probarlo en varias redes sociales puedo confirmar que se puede utilizar como foto de perfil de muchas de ellas y encajaria de forma correctoa.Lo que hace que con un logo tan simple y llamativo creariamos una marca bien definida y fácil de reconocer.
 
 ![Moodboard](P3/Moodboard.png)
 
