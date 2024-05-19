@@ -56,6 +56,7 @@ Nos hemos centrado en crear dos perfiles naturales (Pablo y Mari Carmen) los cua
 Tenemos a [Maria del Carmen](P1/Persona1_MCarmen.pdf) 
 
 Tambien tenemos a [Pablo](P1/Persona2_Pablo.pdf) 
+![Pablo](P1/Pablo.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
