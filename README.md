@@ -9,11 +9,11 @@ Updated: 18/5/2024
 
 **Descripción:** 
 
-**COOK IT!** es una aplicación diseñada para todos los amantes de la cocina y las catas, sin importar su nivel de experiencia. Nuestra plataforma ofrece una amplia gama de talleres y eventos gastronómicos, desde clases de cocina tradicional hasta catas de vinos y cervezas artesanales.**COOK IT!** se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
+**COOK IT!** es una aplicación diseñada para todos los amantes de la cocina y la comida, sin importar tu nivel de experiencia. Nuestra app ofrece una amplia gama de talleres y eventos gastronómicos, desde clases de cocina tradicional hasta catas de vinos que pueden adquirir en nuestra app.**COOK IT!** se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
 
-Buscamos fomentar una comunidad de usuarios y proveedores comprometidos con la calidad y la autenticidad. Los usuarios pueden descubrir talleres impartidos por chefs locales, sommeliers y expertos gastronómicos, conectándose con personas que comparten su pasión por la buena comida y las bebidas de calidad.
+Buscamos fomentar una comunidad de usuarios comprometidos con la calidad y la autenticidad. Los usuarios pueden descubrir talleres impartidos por chefs locales y expertos gastronómicos, conectándose con personas que comparten su pasión por la gastronomía de calidad.
 
-Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desean expandir sus conocimientos culinarios y disfrutar de experiencias gastronómicas auténticas, todo dentro de un entorno inclusivo y accesible para todos.
+Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desean expandir sus conocimientos culinarios y disfrutar de experiencias gastronómicas auténticas, todo dentro de un entorno inclusivo y accesible para todos, de forma que la comida sana e internacional sea accesible a todo tipo de personas, la cual pueden distrutar en solitario o con sus seres queridos.
 
 
 
@@ -22,8 +22,8 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 ![Logo](P3/logo.jpg)
 
 **Miembros**
- * :bust_in_silhouette:   Miguel Bravo Campos     
- * :octocat: Elena Vallejo Ruiz
+ * :bust_in_silhouette: Miguel Bravo Campos     
+ * :bust_in_silhouette: Elena Vallejo Ruiz
 
 ----- 
 
@@ -31,12 +31,12 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-En esta etapa hemos realizado un análisis de aplicaciones relacionadas con talleres de cocina. Hemos analizado en profundidad diferentes aplicaciones y cómo unas personas ficticias la utilizarían.
+En esta etapa hemos realizado un análisis de paginas webs relacionadas con talleres de cocina en Granada. Hemos analizado en profundidad diferentes aplicaciones y cómo unas personas ficticias la utilizarían.
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
-Nuestro User Reseach Plan habla sobre que va nuestro proyecto, los objetivos que tiene asi como los Research Methods,Focus Areas y por ultimo los diferentes puntos de vista desde varias personas.
+Hemos realizado un análisis en profundidad de los posibles usuarios, las mejoras a realizar, las diferentes visiones que hay de un mismo producto y los tipos de investigación tanto cuantitativo como cualitativo y su aplicación en usuarios para obtener feedback. Hemos analizado en profundidad la página [Granada Cooking](https://granadacooking.com/).
 [Mas informacion](P1/User-Research.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
@@ -46,10 +46,12 @@ En cuanto a las aplicaciones asignadas tenemos [Pilsa Educa](https://pilsaeduca.
 
 Nuestro [Competitive Analysis](P1/Competitor_Analysis.pdf)
 
+Tras analizar 3 paginas web diseñadas por diferentes compañias hemos llegado a diferentes conclusiones con cada una de ellas. A la hora de analizar Granada Cooking nos hemos dado cuenta que no solo es importante el diseño de la pagina si no tambien su funcionalidad y facilidad de entendimiento hacia los usuarios ya que hay secciones que no funcionan y puede ser que los usuarios se vayan antes de realizar una compra, Pilsa Educa es una pagina muy completa la cual esta muy orientada a la compra de su producto. Por ultimo encontramos Espai Granada la cual dispone de un sistema de ayuda en linea al momento pero carece de un registro de usuario, además de que sobrecarga al usuario con información.
+
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-Hemos seleccionado dos personas para poder abarcar todos los tipos de usuarios que utilizarían la aplicación y que son perfiles comunes como puede ser cualquier persona.
+Nos hemos centrado en crear dos perfiles naturales (Pablo y Mari Carmen) los cuales por su entorno o aficiones (la cocina específicamente) podrían estar interesados en el mercado de Tours Gastronómicos en Granada y por tanto han acabado entrando en estas páginas web en busca de adquirir sus ofertas.
 
 Tenemos a [Maria del Carmen](P1/Persona1_MCarmen.pdf) 
 
@@ -58,7 +60,7 @@ Tambien tenemos a [Pablo](P1/Persona2_Pablo.pdf)
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-Gracias al User Journey Map podemos valorar cómo se siente el usuario utilizando la aplicación en casos de uso habituales.
+Gracias al User Journey Map podemos valorar cómo se siente el usuario utilizando la aplicación en casos de uso habituales. Después de un análisis de los puntos débiles de la web hemos entrado en ellas con nuestras personas creadas e intentamos realizar una reserva de un taller como si estuviéramos en su piel. Hemos experimentado cada una de las dificultades que sentirán ellos y hemos propuesto algunas simples soluciones que arreglaran estos problemas.
 
 Maria del Carmen quiere ir con su familia en su dia libre del trabajo a tener un buen rato para recordar y va a buscar reservar un curso. [Journey Map](P1/User_Journey_Map_MCarmen.pdf)
 
@@ -67,17 +69,18 @@ Pablo quiere regalarle a su novia por su aniversario una experiencia inolvidable
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-Nuestro Usability Review lo hemos hecho sobre Granada Cooking y podeis verlo [aqui](P1/Usability-review.pdf)
+Hemos sometido la web de Granada Cooking a un Usability Review y dando puntuaciones a los diferentes aspectos de usabilidad, indicando algún comentario si esta lo necesitaba para aclarar el porqué de nuestra puntuación.
+Nuestro Usability Review se puede ver [aqui](P1/Usability-review.pdf)
 
 **La valoracion final:** 68 
 
-**Comentarios:** la aplicación tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios nuevos. Los usuarios deben de ser capaces de utilizar la aplicación con relativa facilidad para la mayoría de tareas fundamentales. Sin embargo, tareas como la busqueda de talleres, la seleccion de fechas en el calendario se hacen muy poco intuitivas y favorece a que los usuarios pierdan el interes por la pagina.
+**Comentarios:** La pagina web tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios nuevos. Los usuarios deben de ser capaces de utilizar la aplicación con relativa facilidad para la mayoría de tareas fundamentales. Sin embargo, tareas como la busqueda de talleres, la seleccion de fechas en el calendario se hacen muy poco intuitivas y favorece a que los usuarios pierdan el interes por la pagina.
 
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ----
 
 Comentarios con un diagrama sobre los aspectos más destacados a modo de conclusión de la práctica anterior:
@@ -106,6 +109,7 @@ Añadir una función que distinga claramente entre cursos disponibles y pasados.
 Mejorar la función de búsqueda de la página web.
 Ofrecer ayuda en línea 24/7.
 
+A la hora de desarrollar nuestra propuesta a partir de la experiencia adquirida hemos decidido realizar un Empathy Map, el cual refleja el comportamiento de los usuarios de la práctica anterior. A la hora de desarrollar las necesidades de nuestros usuarios hemos seguido como plantilla la pirámide de necesidades de Maslow.
 Nuestro [Empathy map](P2/EmpathyMap.pdf).
 
 
@@ -222,6 +226,7 @@ Hemos seleccionado la fuente Nunito para nuestro proyecto debido a su legibilida
 
 -Actividad
 
+![Mockup](P3/layout.png)
 
 Se pueden encontrar por separado [aqui](https://www.figma.com/design/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=0%3A1&t=fm5Lm63HSaQCUMCi-1).
 
