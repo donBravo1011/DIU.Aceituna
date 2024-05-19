@@ -72,7 +72,7 @@ Respecto a los Guide Lines utilizados en relacion a tipografia, iconos, colores,
 
 -Actividad
 
-![Mockup](P3/layout.png)
+![Mockup](layout.png)
 
 Se pueden encontrar por separado [aqui](https://www.figma.com/design/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=0%3A1&t=fm5Lm63HSaQCUMCi-1).
 
@@ -80,6 +80,8 @@ Tambien se pueden ver de forma interactiva [aqui](https://www.figma.com/proto/wo
 
 Por ultimo hemos añadido un video para que sea mas intuitivo para nuevos usuarios el uso de nuestra aplicacion lo pueden ver [aqui](P3/video.mp4).
 
+
+![Video](layout.mp4)
 
 ## Documentación: Publicación del Case Study
 
