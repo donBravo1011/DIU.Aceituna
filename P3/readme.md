@@ -54,10 +54,6 @@ Los diseños se pueden ver [aquí](https://www.figma.com/proto/woG6kRfOjDU3rcbzs
 
 Hemos hecho un video para que vea como se utiliza y le ayude a que sea mas intuitivo. [Aqui](video.mp4)
 
-<figure class="video_container">
-  <iframe src="video.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
 
 ## Documentación: Publicación del Case Study
 
