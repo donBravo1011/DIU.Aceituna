@@ -52,7 +52,7 @@ Respecto a los Guide Lines utilizados en relacion a tipografia, iconos, colores,
 ## Mockup: LAYOUT HI-FI
 Los diseños se pueden ver [aquí](https://www.figma.com/proto/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=12-2886&t=afO7uEGK5KrMWpPM-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=45%3A608) Recuerde darle a Restart para ver nuestra pantalla de carga.
 
-Hemos hecho un video para que vea como se utiliza y le ayude a que sea mas intuitivo. [Aqui](video.mp4)
+Hemos hecho un video para que vea como se utiliza y le ayude a que sea mas intuitivo. [Aqui](layout.mp4)
 
 
 ## Documentación: Publicación del Case Study
