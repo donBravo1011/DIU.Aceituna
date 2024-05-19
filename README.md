@@ -238,6 +238,10 @@ Tambien se pueden ver de forma interactiva [aqui](https://www.figma.com/proto/wo
 Por ultimo hemos añadido un video para que sea mas intuitivo para nuevos usuarios el uso de nuestra aplicacion lo pueden ver [aqui](P3/video.mp4).
 
 
+https://github.com/donBravo1011/DIU.Aceituna/assets/127402143/894979e4-77aa-4d45-98e7-ebe89bcf6dda
+
+
+
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
