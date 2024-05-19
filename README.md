@@ -37,7 +37,7 @@ En esta etapa hemos realizado un análisis de paginas webs relacionadas con tall
 -----
 
 Hemos realizado un análisis en profundidad de los posibles usuarios, las mejoras a realizar, las diferentes visiones que hay de un mismo producto y los tipos de investigación tanto cuantitativo como cualitativo y su aplicación en usuarios para obtener feedback. Hemos analizado en profundidad la página [Granada Cooking](https://granadacooking.com/).
-[Mas informacion](P1/User-Research.pdf)
+[Puedes ver nuestro User Research aquí](P1/User-Research.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
