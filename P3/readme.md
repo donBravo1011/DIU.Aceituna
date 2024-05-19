@@ -80,7 +80,10 @@ Tambien se pueden ver de forma interactiva [aqui](https://www.figma.com/proto/wo
 
 Por ultimo hemos añadido un video para que sea mas intuitivo para nuevos usuarios el uso de nuestra aplicacion lo pueden ver [aqui](P3/video.mp4).
 
-file:///home/elena/Descargas/layout_comprimido.mp4
+
+
+https://github.com/donBravo1011/DIU.Aceituna/assets/127402143/37be6496-cb61-4766-a00f-6c3b14bc8b79
+
 
 
 ## Documentación: Publicación del Case Study
