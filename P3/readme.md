@@ -21,7 +21,7 @@ El logotipo de "Cook it" utiliza la misma paleta de colores que hemos selecciona
 
 **Inspiración**
 
-Para la sección de inspiración, hemos recopilado imágenes que representan el estilo visual y la sensación que queremos lograr con "Cook it". Nos hemos inspirado en aplicaciones contemporáneas como "Rever" por su presentación clara y atractiva de información, y en la fotografía gastronómica vibrante y apetecible que encontramos en diversas fuentes. Estas imágenes nos han guiado en la creación de una experiencia visualmente atractiva y funcional para los usuarios.
+Para la sección de inspiración, hemos recopilado imágenes que representan el estilo visual y siguen nuestra paleta de colores: la sensación que queremos lograr con "Cook it". Nos hemos inspirado en aplicaciones contemporáneas por su presentación clara y atractiva de información, y en la fotografía gastronómica vibrante y apetecible que encontramos en diversas fuentes. Estas imágenes nos han guiado en la creación de una experiencia visualmente atractiva y funcional para los usuarios.
 
 **Comentarios de usuario**
 
