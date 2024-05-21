@@ -9,7 +9,7 @@ Para nuestra aplicación "Cook it", hemos seleccionado una paleta de colores que
 
 **Tipografías**
 
-Hemos decidido utilizar la tipografía "Open Sans ExB" para nuestra aplicación. Esta fuente sans serif es moderna y legible, lo que facilita la lectura en pantallas de dispositivos móviles. Elegimos "Open Sans ExB" porque combina simplicidad y elegancia, lo que se alinea perfectamente con el estilo visual limpio y accesible que buscamos para "Cook it".
+Hemos decidido utilizar la tipografía "Open Sans ExB" Y "Nunito" para nuestra aplicación. Esta fuente sans serif es moderna y legible, mientras que Nunito es una fuente sencilla, amistosa y por lo tanto también legible, lo que facilita la lectura en pantallas de dispositivos móviles. Las elegimos porque combinan simplicidad y elegancia, lo que se alinea perfectamente con el estilo visual limpio y accesible que buscamos para "Cook it".
 
 **Iconografía**
 
