@@ -9,7 +9,7 @@ Updated: 18/5/2024
 
 **Descripción:** 
 
-**COOK IT!** es una aplicación diseñada para todos los amantes de la cocina y la comida, sin importar tu nivel de experiencia. Nuestra app ofrece una amplia gama de talleres y eventos gastronómicos, desde clases de cocina tradicional hasta catas de vinos que pueden adquirir en nuestra app.**COOK IT!** se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
+**COOK IT!** es una aplicación diseñada para todos los amantes de la cocina, sin importar tu nivel de experiencia. Nuestra app ofrece una amplia gama de talleres y eventos gastronómicos, desde clases de cocina tradicional hasta catas de vinos que podrán adquirir en nuestra app. **COOK IT!** se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
 
 Buscamos fomentar una comunidad de usuarios comprometidos con la calidad y la autenticidad. Los usuarios pueden descubrir talleres impartidos por chefs locales y expertos gastronómicos, conectándose con personas que comparten su pasión por la gastronomía de calidad.
 
@@ -31,7 +31,7 @@ Nuestra misión es ofrecer una alternativa enriquecedora para aquellos que desea
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-En esta etapa hemos realizado un análisis de paginas webs relacionadas con talleres de cocina en Granada. Hemos analizado en profundidad diferentes aplicaciones y cómo unas personas ficticias la utilizarían.
+En esta etapa hemos realizado un análisis de paginas webs relacionadas con talleres de cocina en Granada. Hemos analizado en profundidad diferentes aplicaciones y cómo nuestros perfiles ficticias las utilizarían.
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
@@ -46,12 +46,12 @@ En cuanto a las aplicaciones asignadas tenemos [Pilsa Educa](https://pilsaeduca.
 
 Nuestro [Competitive Analysis](P1/Competitor_Analysis.pdf)
 
-Tras analizar 3 paginas web diseñadas por diferentes compañias hemos llegado a diferentes conclusiones con cada una de ellas. A la hora de analizar Granada Cooking nos hemos dado cuenta que no solo es importante el diseño de la pagina si no tambien su funcionalidad y facilidad de entendimiento hacia los usuarios ya que hay secciones que no funcionan y puede ser que los usuarios se vayan antes de realizar una compra, Pilsa Educa es una pagina muy completa la cual esta muy orientada a la compra de su producto. Por ultimo encontramos Espai Granada la cual dispone de un sistema de ayuda en linea al momento pero carece de un registro de usuario, además de que sobrecarga al usuario con información.
+Tras analizar 3 paginas web diseñadas por diferentes compañias hemos llegado a diferentes conclusiones con cada una de ellas. A la hora de analizar Granada Cooking nos hemos dado cuenta que no solo es importante el diseño de la pagina si no tambien su funcionalidad y facilidad de entendimiento hacia los usuarios ya que hay secciones que no funcionan: puede que los usuarios se vayan antes de realizar una compra, Pilsa Educa es una pagina muy completa la cual esta muy orientada a la venta de sus productos. Por ´hltimo encontramos Espai Granada la cual dispone de un sistema de ayuda en linea al momento pero carece de un registro de usuario, además de que sobrecarga al usuario con información.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-Nos hemos centrado en crear dos perfiles naturales (Pablo y Mari Carmen) los cuales por su entorno o aficiones (la cocina específicamente) podrían estar interesados en el mercado de Tours Gastronómicos en Granada y por tanto han acabado entrando en estas páginas web en busca de adquirir sus ofertas.
+Nos hemos centrado en crear dos perfiles ordinarios (Pablo y Mari Carmen) los cuales por su entorno o aficiones (la cocina específicamente) podrían estar interesados en el mercado de Tours Gastronómicos en Granada y por tanto han acabado entrando en estas páginas web en busca de adquirir sus ofertas.
 
 Tenemos a [Maria del Carmen](P1/Persona1_MCarmen.pdf) 
 ![MCarmen](P1/MCarmen.png)
@@ -61,11 +61,11 @@ Tambien tenemos a [Pablo](P1/Persona2_Pablo.pdf)
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-Gracias al User Journey Map podemos valorar cómo se siente el usuario utilizando la aplicación en casos de uso habituales. Después de un análisis de los puntos débiles de la web hemos entrado en ellas con nuestras personas creadas e intentamos realizar una reserva de un taller como si estuviéramos en su piel. Hemos experimentado cada una de las dificultades que sentirán ellos y hemos propuesto algunas simples soluciones que arreglaran estos problemas.
+Gracias al User Journey Map podemos valorar cómo se siente el usuario utilizando la aplicación en casos de uso habituales. Después de un análisis de los puntos débiles de la web hemos entrado en ellas con nuestras personas creadas y hemos intentado realizar una reserva de un taller como si estuviéramos en su piel. Hemos experimentado cada una de las dificultades que sentirán ellos y hemos propuesto algunas simples soluciones que arreglaran estos problemas.
 
-Maria del Carmen quiere ir con su familia en su dia libre del trabajo a tener un buen rato para recordar y va a buscar reservar un curso. [Journey Map](P1/User_Journey_Map_MCarmen.pdf)
+Maria del Carmen quiere ir con su familia en su dia libre del trabajo a tener un buen rato memorable y busca reservar un curso. [Journey Map](P1/User_Journey_Map_MCarmen.pdf)
 
-Pablo quiere regalarle a su novia por su aniversario una experiencia inolvidable y tambien va a realizar la adquisicion de un cursod de cocina. [Journey Map](P1/User_Journey_Map_Pablo.pdf)
+Pablo quiere regalarle a su novia por su aniversario una experiencia inolvidable y tambien va a realizar la adquisicion de un curso de cocina. [Journey Map](P1/User_Journey_Map_Pablo.pdf)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
@@ -75,7 +75,7 @@ Nuestro Usability Review se puede ver [aqui](P1/Usability-review.pdf)
 
 **La valoracion final:** 68 
 
-**Comentarios:** La pagina web tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios nuevos. Los usuarios deben de ser capaces de utilizar la aplicación con relativa facilidad para la mayoría de tareas fundamentales. Sin embargo, tareas como la busqueda de talleres, la seleccion de fechas en el calendario se hacen muy poco intuitivas y favorece a que los usuarios pierdan el interes por la pagina.
+**Comentarios:** La pagina web tiene un gran rendimiento y un diseño atractivo. Sin embargo, carece de ayuda para usuarios nuevos. Los usuarios deben de ser capaces de utilizar la aplicación con relativa facilidad para la mayoría de tareas fundamentales. Sin embargo, tareas como la busqueda de talleres, la seleccion de fechas en el calendario se hacen muy poco intuitivas y favorece a que los usuarios pierdan rapidamente el interes por la pagina.
 
 
 ## Paso 2. UX Design  
@@ -148,7 +148,7 @@ Esta es nuestra propuesta de valor: [Mas aqui](P2/ScopeCanvas.png)
 ----
 
 
-En esta sección, se identifican y listan los términos clave que los usuarios emplean o esperan encontrar durante su interacción con el sistema. Estos términos son fundamentales para asegurar una comunicación clara y efectiva, mejorando la usabilidad y la experiencia del usuario.
+En esta sección, se identifican y listan los términos clave que los usuarios emplean o esperan encontrar durante su interacción con nuestro sistema: la estructura y esqueleto de nuestra aplicación. Estos términos son fundamentales para asegurar una comunicación clara y efectiva, mejorando la usabilidad y la experiencia del usuario.
 
 Nuestro [Sitemap](P2/Sitemap.png) y el [Labeling](P2/Labeling.pdf)
 
@@ -189,7 +189,7 @@ Nuestro logo es:
 
 ![Logo](P3/logo.jpg)
 
-Despues de probarlo en varias redes sociales puedo confirmar que se puede utilizar como foto de perfil de muchas de ellas y encajaria de forma correctoa.Lo que hace que con un logo tan simple y llamativo creariamos una marca bien definida y fácil de reconocer.
+Despues de probarlo en varias redes sociales podemos confirmar que se puede utilizar como foto de perfil de muchas de ellas y encajaria de forma correcto. Lo que hace que con un logo tan minimalista y llamativo creariamos una marca bien definida y fácil de reconocer.
 
 ![Moodboard](P3/Moodboard.png)
 
