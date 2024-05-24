@@ -183,7 +183,7 @@ Otra version de los bocetos la hemos hecho en [Figma](P2/BocetosFigma.png).
 -----
 
 
-Para el moodboard hemos elegido unas fotos que nos inspiraban y nos transmiten sensaciones de familiaridad y cercania. Con esto hemos elegido una paleta de colores que permita a los usuarios encontrar el punto de asociar los colores a la comida, la naturaleza, sus propias experiencias. Hemos seleccionado dos fuentes que sean muy legibles y sencillas y seleccionado unos iconos para poder crear nuestros diseños. Además, hemos añadido unos comentarios que muestran cómo queremos que los usuarios nos identifiquen. [Nuestro Moodboard](P3/Moodboard.png)
+Para el moodboard hemos elegido unas fotos que nos inspiraban y nos transmiten sensaciones de familiaridad y cercania. Con esto hemos elegido una paleta de colores que permita a los usuarios encontrar el punto de asociar los colores a la comida, la naturaleza, sus propias experiencias. Hemos seleccionado dos fuentes que sean muy legibles y sencillas y seleccionado unos iconos para poder crear nuestros diseños. Además, hemos añadido unos comentarios que muestran cómo queremos que los usuarios nos identifiquen. [Nuestro Moodboard](P3/moodboard.png)
 
 Nuestro logo es:
 
@@ -191,7 +191,7 @@ Nuestro logo es:
 
 Despues de probarlo en varias redes sociales podemos confirmar que se puede utilizar como foto de perfil de muchas de ellas y encajaria de forma correcto. Lo que hace que con un logo tan minimalista y llamativo creariamos una marca bien definida y fácil de reconocer.
 
-![Moodboard](P3/Moodboard.png)
+![Moodboard](P3/moodboard.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
