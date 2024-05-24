@@ -229,7 +229,7 @@ Hemos seleccionado la fuente Nunito para nuestro proyecto debido a su legibilida
 
 -Actividad
 
-![Mockup](P3/layout.png)
+![Mockup](P3/Layout.png)
 
 Se pueden encontrar por separado [aqui](https://www.figma.com/design/woG6kRfOjDU3rcbzs68iTO/APLICACION-COOKIT?node-id=0%3A1&t=fm5Lm63HSaQCUMCi-1).
 
