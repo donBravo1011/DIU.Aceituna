@@ -42,7 +42,7 @@ Hemos realizado un análisis en profundidad de los posibles usuarios, las mejora
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
-En cuanto a las aplicaciones asignadas tenemos [Pilsa Educa](https://pilsaeduca.com/) y [Granada Cooking](https://granadacooking.com/). Hemos elegido las dos para compararlas con un tercer competidor en el sector que es [ESPAI Granda](https://www.espaigranada.com/).
+Vamos a realizar un analisis de la competencia existente: en cuanto a las aplicaciones asignadas tenemos [Pilsa Educa](https://pilsaeduca.com/) y [Granada Cooking](https://granadacooking.com/). Hemos elegido las dos para compararlas con un tercer competidor en el sector que es [ESPAI Granda](https://www.espaigranada.com/).
 
 Nuestro [Competitive Analysis](P1/Competitor_Analysis.pdf)
 
