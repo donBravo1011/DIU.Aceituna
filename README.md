@@ -362,7 +362,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - No hay ninguna sección de ayuda en linea o FAQ.
 - No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
 
-**SocialCooking** es una aplicación con mucho potencial, que tiene una propuesta muy interesante a nivel de mercado, pero hace falta profundizar mas en la funcionalidad de la aplicación y su usabilidad.
+**SocialCooking** es una aplicación con mucho potencial, que tiene una propuesta muy interesante a nivel de mercado, pero hace falta profundizar mas en la funcionalidad de la aplicación y su usabilidad, ya que no hemos sido capaces de analizarla del todo debido a esto, lo cual justifica su nota en el cuestionario SUS.
 
 
 
