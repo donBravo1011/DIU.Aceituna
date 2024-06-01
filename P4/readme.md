@@ -1,11 +1,12 @@
 # DIU - Practica 4, entregables
 
+1- Assignment:
 
 El caso asignado para nuestro User testing es una aplicación llamada SocialCooking: una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
 en las que los usuarios dispondrán de perfiles personalizables a partir los cuales pueden compartir multimedia y comentarios de los talleres a los que han asistido, a forma de red social.
 
 
-* Roleplay: Users
+2- Roleplay: Users
   Nuestras personas ficticias para este A/B testin son:
   
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B | Sus SCORE
@@ -27,13 +28,23 @@ Elección y características
 
 
 
-* A/B Testing. 
+3. Eye Tacking
+
+Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder
 
 
-* Tareas realizadas 
+Actividades estudiadas en el eye tracking
+COOK IT:
+* Ver main page (observación) y reserva de taller
+* Ver perfil y configurar cuenta
+
+SOCIAL COOKING:
+* Ver main page (observación) y reserva de taller
+* Registrarse y ver perfil
+
+4. Cuestionario SUS:
 
 
-* Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+5. Usability Report de Caso B:
 
-* Conclusiones
+6. Conclusiones
