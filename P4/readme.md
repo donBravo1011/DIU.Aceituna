@@ -31,7 +31,7 @@ Elección y características
 
 # 3. Eye Tracking
 
-Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder. Hemos reclutado 4 personas que se asimilan de cierta forma a nuestros usuarios ficticios y les hemos pedido que accedan a los enlaces y realicen las siguientes actividades (teniendo en cuenta que son simulaciones y no aplicaciónes de uso totalmente funcional):
+Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder. Hemos reclutado 4 personas que se asimilan de cierta forma a nuestros usuarios ficticios y les hemos pedido que accedan a los enlaces y realicen las siguientes actividades (teniendo en cuenta que son simulaciones y no aplicaciónes de uso totalmente funcional). Para realizar el Eye Tracking se utilizaban las fotografias que procedian con la accion a realizar(Entre 2 y 3 por accion) y un intervalo de 6 segundos entre cada fotografia:
 
 Actividades estudiadas en el eye tracking
 **COOK IT**:
