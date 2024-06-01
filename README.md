@@ -374,9 +374,9 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - El botom bar debería de ser estatíco, ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
 - Añadir un calendario funcional (Ya que hay un icono en main page pero no está implementado), que muestre los talleres que hay disponibles ese dia.
 - Los usuarios tienen un Dato llamado Nivel, pero no se indica como puede aumentar de nivel un usuario, podría ir aumentando según el número de talleres que ha atendido y la dificultad de estos, lo cual fomentaria a los usuarios a adquirir más talleres.
-- Que la simulación contenga algún tipo de scrolling.
-- Que se permita dejar reseñas en los cursos que los usuarios ya hayan atendido.
-- No hay ninguna sección de ayuda en linea o FAQ.
+- Que la simulación contenga algún tipo de scrolling, para añadir profundidad a la aplicación.
+- Que se permita dejar reseñas en los cursos que los usuarios ya hayan atendido, para que otros usuarios que no han atendido el curso tengan algún respaldo para realizar la decisión de compra.
+- No hay ninguna sección de ayuda en linea o FAQ, lo cual permite a los usuarios eliminar sus dudas.
 - No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
 - Hay un sidebar pero no sabemos que puede contener.
 
