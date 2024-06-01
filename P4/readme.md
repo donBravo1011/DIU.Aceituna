@@ -1,9 +1,9 @@
 # DIU - Practica 4, entregables
 
 
+El caso asignado para nuestro User testing es una aplicación llamada SocialCooking: una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
+en las que los usuarios dispondrán de perfiles personalizables a partir los cuales pueden compartir multimedia y comentarios de los talleres a los que han asistido, a forma de red social.
 
-Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
-Lista de grupos 
 
 * Users 
 
