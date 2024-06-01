@@ -78,5 +78,5 @@ Puntos a mejorar:
 - Que se permita dejar reseñas en los cursos que los usuarios ya hayan atendido.
 - En la tabla de tareas se incluyen tareas como Ver historial, Cancelar reserva, Ver reserva, Unirse a la lista de espera, Consultar información de contacto, Eliminar cuenta pero ninguna de estas se ha implementado.
 - No hay ninguna sección de ayuda en linea o FAQ.
-- No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan sobre si la zona donde transcurren los cursos es accesible.
+- No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
 # 6. Conclusiones
