@@ -399,7 +399,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 
 ## Conclusión final / Valoración de las prácticas
 
-Gracias al desarrollo de estas prácticas de Diseño de Interfaces de Usuario nos hemos dado cuenta de la importancia que tiene la experiencia del usuario y la accesibilidad de nuestras páginas webs. A veces como programadores suponemos que todo el mundo entiende nuestros diseños al haberlos creado nosotros desde cero y entendemos su funcionabilidad al completo, pero no es así. Para los usuarios, cuanto más sencillo mejor. Hemos conseguido crear una mejora de la experiencia de uso de nuestros usuarios a la hora de utilizar Granada Cooking.
+Gracias al desarrollo de estas prácticas de Diseño de Interfaces de Usuario nos hemos dado cuenta de la importancia que tiene la experiencia del usuario y la accesibilidad de nuestras páginas webs y aplicaciones moviles. A veces como programadores suponemos que todo el mundo entiende nuestros diseños al haberlos creado nosotros desde cero y entendemos su funcionabilidad al completo, pero no es así. Para los usuarios, cuanto más sencillo mejor. Hemos conseguido crear una mejora de la experiencia de uso de nuestros usuarios a la hora de utilizar Granada Cooking.
 
 
 
