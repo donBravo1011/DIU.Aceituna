@@ -2,13 +2,13 @@
 
 # 1- Assignment:
 
-El caso asignado para nuestro User testing es una aplicación llamada [**SocialCooking**](https://github.com/dfp2500/DIU): una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
+El caso asignado para nuestro A/B testing es una aplicación llamada [**SocialCooking**](https://github.com/dfp2500/DIU): una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
 en las que los usuarios dispondrán de perfiles personalizables a partir los cuales pueden compartir multimedia y comentarios de los talleres a los que han asistido, a forma de red social.
 
 
 # 2- Roleplay: Users
 
-  Nuestras personas ficticias para este A/B testin son:
+  Nuestras personas ficticias para este A/B testing son:
   
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B | Sus SCORE
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | -------
