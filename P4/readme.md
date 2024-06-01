@@ -1,6 +1,6 @@
 # DIU - Practica 4, entregables
 
-# 1- Assignment:
+# 1- Asignación:
 
 El caso asignado para nuestro A/B testing es una aplicación llamada [**SocialCooking**](https://github.com/dfp2500/DIU): una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
 en las que los usuarios dispondrán de perfiles personalizables a partir los cuales pueden compartir multimedia y comentarios de los talleres a los que han asistido, a forma de red social.
@@ -29,7 +29,7 @@ Elección y características
 
 
 
-# 3. Eye Tacking
+# 3. Eye Tracking
 
 Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder. Hemos reclutado 4 personas que se asimilan de cierta forma a nuestros usuarios ficticios y les hemos pedido que accedan a los enlaces y realicen las siguientes actividades (teniendo en cuenta que son simulaciones y no aplicaciónes de uso totalmente funcional):
 
