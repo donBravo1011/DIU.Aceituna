@@ -5,8 +5,14 @@ El caso asignado para nuestro User testing es una aplicación llamada SocialCook
 en las que los usuarios dispondrán de perfiles personalizables a partir los cuales pueden compartir multimedia y comentarios de los talleres a los que han asistido, a forma de red social.
 
 
-* Users 
-
+* Users
+* 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| #1 Manolo     | H / 70   | Jubilado    | Baja       | Introvertido | Web.       | A 
+| User2's name  | H / 18   | Estudiante  | Alta       | Timido       | Web        | A 
+| User3's name  | M / 35   | Abogado     | Alta        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 Elección y características
 
 * A/B Testing. 
