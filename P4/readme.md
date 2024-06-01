@@ -31,8 +31,7 @@ Elección y características
 
 # 3. Eye Tacking
 
-Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder
-
+Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder. Hemos reclutado 4 personas que se asimilan de cierta forma a nuestros usuarios ficticios y les hemos pedido que accedan a los enlaces y realicen las siguientes actividades (teniendo en cuenta que son simulaciones y no aplicación de uso totalmente funcional):
 
 Actividades estudiadas en el eye tracking
 **COOK IT**:
