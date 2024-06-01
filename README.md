@@ -359,6 +359,8 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - Logo atractivo.
 - Diseño sencillo y agradable, que llama la atención.
 - Fuente legible, que combina con la elección estetica para la aplicación.
+- Eslogan llamativo.
+- Iconos sencillos y legibles, que contrastan con los colores utilizados.
 - Propuesta diferente que implementa una red social dentro de la venta de talleres de cocina.
 - Perfil con grado de Experiencia(Nivel).
 - Búsqueda en el inicio del Main Page, que facilita al usuario ir directo a lo que esté buscando de forma rápida sin perderse en la App.
@@ -377,6 +379,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - En la tabla de tareas se incluyen tareas como Ver historial, Cancelar reserva, Ver reserva, Unirse a la lista de espera, Consultar información de contacto, Eliminar cuenta pero ninguna de estas se ha implementado.
 - No hay ninguna sección de ayuda en linea o FAQ.
 - No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
+- Hay un sidebar pero no sabemos que puede contener.
 
 
 
