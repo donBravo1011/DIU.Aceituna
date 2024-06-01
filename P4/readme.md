@@ -44,10 +44,15 @@ Actividades estudiadas en el eye tracking
 
 # 4. Cuestionario SUS:
 ![Cuestionario_SUS](Cuestionario_SUS.png)
-Cook it(Caso A)
-SocialCooking (Caso B) ha obtenido una puntuación de 60 para Toñi y 52.5 para Paco respectivamente. La valoración según el cuestionario SUS sería de "Marginal tipo D" para la puntuación de 60 y “Marginal” para la puntuación de 50.
+**Cook it**(Caso A) ha obtenido una puntuación de 72.5 para Manolo y 87.5 para Sara respectivamente. La valoración según el cuestionario SUS sería de "Aceptable tipo C" para la puntuación de 72.5 y “Aceptable Tipo B” para la puntuación de 87.5.
 
-Creemos que esto se debe a la escasez de profundización a la hora de realizar la simulación de la aplicación, a pesar de que su estetíca es bonita y limpia, en el caso de Toñi se encontraba muy interesada en el aspecto de red social de la aplicación, pero solo está implementado que se pueda compartir tu propio perfil de forma que tendría que compartirlo a alguien entre sus contactos, ¿Como conoce a más gente que esté interesada en la cocina de esta forma?. En el caso de Paco, que tiene un menor conocimiento tecnológico, la aplicación no te muestra como llegar a la cesta, y los menús inferiores no con consistentes, cambiando según en la zona de la aplicación en la que te encuentres, lo cual dificulta y hace confuso el uso de esta misma.
+Creemos que esto se ve afectado sobre todo por la edad y los conocimientos tecnológicos, que pueden dificultar el uso de la aplicación y a la hora de visualizar y entender los iconos, que por su tamaño pueden ser más dificiles de ver y/o entender. 
+
+**SocialCooking** (Caso B) ha obtenido una puntuación de 60 para Toñi y 52.5 para Paco respectivamente. La valoración según el cuestionario SUS sería de "Marginal tipo D" para la puntuación de 60 y “Marginal” para la puntuación de 50.
+
+Creemos que esto se debe a la escasez de profundización a la hora de realizar la simulación de la aplicación, a pesar de que su estetíca es bonita y limpia, en el caso de Toñi se encontraba muy interesada en el aspecto de red social de la aplicación, pero solo está implementado que se pueda compartir tu propio perfil de forma que tendría que compartirlo a alguien entre sus contactos, ¿Como conoce a más gente que esté interesada en la cocina de esta forma?. 
+
+En el caso de Paco, que tiene un menor conocimiento tecnológico, la aplicación no te muestra como llegar a la cesta, y los menús inferiores no con consistentes, cambiando según en la zona de la aplicación en la que te encuentres, lo cual dificulta y hace confuso el uso de esta misma.
 
 ![Notas](Puntuacion.png)
 
