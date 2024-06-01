@@ -343,7 +343,7 @@ Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario c
 
 Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclusiones:
 
-**Los puntos fuertes de SocialCooking son:
+#Los puntos fuertes de SocialCooking son:
 
 - Diseño sencillo y agradable.
 - Propuesta diferente que implementa una red social dentro de la venta de talleres de cocina.
@@ -351,7 +351,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - Búsqueda en el inicio del Main Page, que facilita al usuario ir directo a lo que esté buscando de forma rápida sin perderse en la App.
 - Paleta de alto contraste.
 
-**Puntos a mejorar:
+#Puntos a mejorar:
 - Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la propia red social, ya sea mediante una función de busqueda o un timeline.
 - El botom bar debería de ser estatíco, ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
 - Añadir un calendario funcional (Ya que hay un icono en main page pero no está implementado), que muestre los talleres que hay disponibles ese dia.
