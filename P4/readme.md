@@ -36,26 +36,57 @@ Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas apli
 Actividades estudiadas en el eye tracking
 **COOK IT**:
 * Ver main page (observación) y reserva de taller:
-  
-  ![a](main_cookit.png)
-  ![b](taller_cookit.png)
-  ![c](cesta_cookit.png)
+
+   **Los usuario se centran sobretodo en la primera imagen de la aplicacion.**
+
+   ![a](main_cookit.png)
+
+   **Igualmente que en la anterior se puede ver como la foto es lo mas llamativo.**
+
+   ![b](taller_cookit.png)
+
+   **En la cesta se puede ver como ha diferencia de las imagenes aqui se centran en el precido y los descuentos.**
+
+   ![c](cesta_cookit.png)
 * Ver perfil y configurar cuenta:
-  
-  ![a](iniciar_cookit.png)
-  ![b](main_laura_cookit.png)
-  ![c](configuracion_cookit.png)
+
+  **Como es de esperar los usuarios se centra en los campos que tienen que rellenar.**
+
+   ![a](iniciar_cookit.png)
+
+   **Los usuarios perciben los cambios de la pagina principal con sus datos personales.**
+
+   ![b](main_laura_cookit.png)
+
+   **Analogamente, siguen centrandose en los campos de su perfil.**
+
+   ![c](configuracion_cookit.png)
 
 **SOCIAL COOKING**:
 * Ver main page (observación) y reserva de taller:
 
-  ![a](main_social.png)
+
+   **Los usuarios se centran en la primera imagen y en el menu de navegacion de la aplicacion.**
+
+   ![a](main_social.png)
+
+  **En este caso se puede ver como resalta mucho el boton de reservar y los usuarios leen las caraceristicas del taller.**
+
   ![b](taller_social.png)
 * Registrarse y ver perfil:
 
+
+   **El boton de iniciar es lo que mas resalta con diferencia, ya que le da al usuario un camino el cual seguir.**
+
   ![a](iniciar_social.png)
-  ![b](registrarse_social.png)
-  ![c](perfil_cookit.png)
+
+   **Los colores fuertes como el rojo son los mas llamativos para el usuario.**
+
+   ![b](registrarse_social.png)
+
+  **En el perfil lo que mas destaca son sus campos y su fotografia de perfil.**
+
+   ![c](perfil_social.png)
 # 4. Cuestionario SUS:
 ![Cuestionario_SUS](Cuestionario_SUS.png)
 ![Notas](Puntuacion.png)
