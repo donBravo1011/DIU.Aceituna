@@ -351,6 +351,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - Búsqueda en el inicio del Main Page, que facilita al usuario ir directo a lo que esté buscando de forma rápida sin perderse en la App.
 - Paleta de alto contraste.
 
+
 # Puntos a mejorar:
 - Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la propia red social, ya sea mediante una función de busqueda o un timeline.
 - El botom bar debería de ser estatíco, ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
@@ -361,6 +362,8 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - En la tabla de tareas se incluyen tareas como Ver historial, Cancelar reserva, Ver reserva, Unirse a la lista de espera, Consultar información de contacto, Eliminar cuenta pero ninguna de estas se ha implementado.
 - No hay ninguna sección de ayuda en linea o FAQ.
 - No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
+
+
 
 **SocialCooking** es una aplicación con mucho potencial, que tiene una propuesta muy interesante a nivel de mercado, pero hace falta profundizar mas en la funcionalidad de la aplicación y su usabilidad, ya que no hemos sido capaces de analizarla del todo debido a esto, lo cual justifica su nota en el cuestionario SUS.
 
