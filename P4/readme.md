@@ -43,7 +43,9 @@ Actividades estudiadas en el eye tracking
 * Registrarse y ver perfil
 
 # 4. Cuestionario SUS:
+![Cuestionario_SUS](P4/Cuestionario_SUS.png)
 
+![Notas](P4/Puntuacion_SUS.png)
 
 # 5. Usability Report de Caso B:
 
