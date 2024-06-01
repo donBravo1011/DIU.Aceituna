@@ -358,7 +358,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 
 - Logo atractivo.
 - Diseño sencillo y agradable, que llama la atención.
-- Fuente legible, que convina con la elección estetica para la aplicación.
+- Fuente legible, que combina con la elección estetica para la aplicación.
 - Propuesta diferente que implementa una red social dentro de la venta de talleres de cocina.
 - Perfil con grado de Experiencia(Nivel).
 - Búsqueda en el inicio del Main Page, que facilita al usuario ir directo a lo que esté buscando de forma rápida sin perderse en la App.
