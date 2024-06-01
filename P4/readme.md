@@ -35,13 +35,27 @@ Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas apli
 
 Actividades estudiadas en el eye tracking
 **COOK IT**:
-* Ver main page (observación) y reserva de taller
-* Ver perfil y configurar cuenta
+* Ver main page (observación) y reserva de taller:
+  
+  ![a](main_cookit.png)
+  ![b](taller_cookit.png)
+  ![c](cesta_cookit.png)
+* Ver perfil y configurar cuenta:
+  
+  ![a](iniciar_cookit.png)
+  ![b](main_laura_cookit.png)
+  ![c](configuracion_cookit.png)
 
 **SOCIAL COOKING**:
-* Ver main page (observación) y reserva de taller
-* Registrarse y ver perfil
+* Ver main page (observación) y reserva de taller:
 
+  ![a](main_social.png)
+  ![b](taller_social.png)
+* Registrarse y ver perfil:
+
+  ![a](iniciar_social.png)
+  ![b](registrarse_social.png)
+  ![c](perfil_cookit.png)
 # 4. Cuestionario SUS:
 ![Cuestionario_SUS](Cuestionario_SUS.png)
 ![Notas](Puntuacion.png)
