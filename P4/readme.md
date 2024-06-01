@@ -7,12 +7,12 @@ en las que los usuarios dispondrán de perfiles personalizables a partir los cua
 
 * Users
 * 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| #1 Manolo     | Hombre, 70   | Jubilado    | Baja       | Persona anciana, fan de la fotografía, que se siente feliz | Teléfono       | A 
-| #2 Sara  | Mujer, 22   | Estudiante  | Alta       | Persona trabajadora, fan del estudio, que se siente triste | Teléfono        | A 
-| #3 Toñi  | Mujer, 58   | Banquera     | Alta        | Persona minusválida, fan de los idiomas, que tiene miedo    | Teléfono      | B 
-| #4 Paco  | Hombre, 35   | Empresario  | Media       | Persona familiar, fan de los deportes, que se siente sorprendido | Teléfono        | B 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B | Sus SCORE
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | -------
+| #1 Manolo     | Hombre, 70   | Jubilado    | Baja       | Persona anciana, fan de la fotografía, que se siente feliz | Teléfono       | A | 72,5
+| #2 Sara  | Mujer, 22   | Estudiante  | Alta       | Persona trabajadora, fan del estudio, que se siente triste | Teléfono        | A | 87,5
+| #3 Toñi  | Mujer, 58   | Banquera     | Alta        | Persona minusválida, fan de los idiomas, que tiene miedo    | Teléfono      | B | 60
+| #4 Paco  | Hombre, 35   | Empresario  | Media       | Persona familiar, fan de los deportes, que se siente sorprendido | Teléfono        | B | 52,5
 
 Elección y características
 
