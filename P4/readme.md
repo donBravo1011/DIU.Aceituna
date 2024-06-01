@@ -2,7 +2,7 @@
 
 # 1- Assignment:
 
-El caso asignado para nuestro User testing es una aplicación llamada SocialCooking: una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
+El caso asignado para nuestro User testing es una aplicación llamada [**SocialCooking**](https://github.com/dfp2500/DIU): una aplicación de reserva y gestión de cursos gastronómicos de diferentes culturas, 
 en las que los usuarios dispondrán de perfiles personalizables a partir los cuales pueden compartir multimedia y comentarios de los talleres a los que han asistido, a forma de red social.
 
 
@@ -19,13 +19,13 @@ en las que los usuarios dispondrán de perfiles personalizables a partir los cua
 
 Elección y características
 
-* El primer usuario es Manolo, un hombre de 70 años que se encuentra jubilado, fan de la fotografía pasa sus tardes haciendo fotos a todo lo que le llama la atención, lo cual le hace sentir muy feliz y realizado. Accede a Cook it mediante un Teléfono, buscando adquirir un taller para una persona, la que le llama la atención que se hagan fotos en los talleres.
+* El primer usuario es **Manolo**, un hombre de 70 años que se encuentra jubilado, fan de la fotografía pasa sus tardes haciendo fotos a todo lo que le llama la atención, lo cual le hace sentir muy feliz y realizado. Accede a Cook it mediante un Teléfono, buscando adquirir un taller para una persona, la que le llama la atención que se hagan fotos en los talleres.
 
-* La segunda usuario es Sara, una mujer de 22 años que estudia en Granada, es una persona muy trabajadora que dedica todas sus tardes a estudiar, algo que le apasiona, pero ultimamente se siente abrumada y triste, siente que se está distanciando de sus amigos. Accede a Cook it mediante un Teléfono, quiere adquirir una cata para 5 personas para pasar un buen tiempo con sus amigos y reconectar.
+* La segunda usuario es **Sara**, una mujer de 22 años que estudia en Granada, es una persona muy trabajadora que dedica todas sus tardes a estudiar, algo que le apasiona, pero ultimamente se siente abrumada y triste, siente que se está distanciando de sus amigos. Accede a Cook it mediante un Teléfono, quiere adquirir una cata para 5 personas para pasar un buen tiempo con sus amigos y reconectar.
 
-* La tercera usuario es Toñi, una mujer de 55 años que trabaja en un Banco, es fan de los idiomas y le encanta conocer a todo tipo de gente, a menudo siente miedo debido a que los sitios no suelen adaptarse a su minusvalía o no lo hacen correctamente ya que usa silla de ruedas. Accede a SocialCooking buscando reservar ocio adaptado a su condición y en el proceso conocer gente nueva.
+* La tercera usuario es **Toñi**, una mujer de 55 años que trabaja en un Banco, es fan de los idiomas y le encanta conocer a todo tipo de gente, a menudo siente miedo debido a que los sitios no suelen adaptarse a su minusvalía o no lo hacen correctamente ya que usa silla de ruedas. Accede a SocialCooking buscando reservar ocio adaptado a su condición y en el proceso conocer gente nueva.
 
-* La cuarta persona es Paco, un hombre de 35 años que es un Empresario, es fan de los deportes, se siente sorprendido por la cantidad de talleres que ofrece SocialCooking de diferentes culturas. Accede a SocialCooking buscando reservar un taller para asistir junto con su familia y disfrutar de una nueva cultura culinaria.
+* La cuarta persona es **Paco**, un hombre de 35 años que es un Empresario, es fan de los deportes, se siente sorprendido por la cantidad de talleres que ofrece SocialCooking de diferentes culturas. Accede a SocialCooking buscando reservar un taller para asistir junto con su familia y disfrutar de una nueva cultura culinaria.
 
 
 
@@ -35,11 +35,11 @@ Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas apli
 
 
 Actividades estudiadas en el eye tracking
-COOK IT:
+**COOK IT**:
 * Ver main page (observación) y reserva de taller
 * Ver perfil y configurar cuenta
 
-SOCIAL COOKING:
+**SOCIAL COOKING**:
 * Ver main page (observación) y reserva de taller
 * Registrarse y ver perfil
 
