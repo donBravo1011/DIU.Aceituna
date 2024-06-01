@@ -362,6 +362,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - Perfil con grado de Experiencia(Nivel).
 - Búsqueda en el inicio del Main Page, que facilita al usuario ir directo a lo que esté buscando de forma rápida sin perderse en la App.
 - Paleta de alto contraste.
+- Landing page atractivo y conciso que presenta la aplicación de forma rápida al usuario, incitandolo a descargarse la App.
 
 
 # Puntos a mejorar:
