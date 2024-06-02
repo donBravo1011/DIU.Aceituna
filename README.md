@@ -415,11 +415,36 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
-En conclusión, la evaluación de la práctica utilizando técnicas de A/B testing, eye tracking, y un usability report nos ha proporcionado una visión integral de las fortalezas y debilidades de la aplicación SocialCooking. El diseño atractivo y la estética cuidada son puntos fuertes, ya que llaman la atención del usuario con un logo impactante, fuentes legibles y una paleta de colores vibrantes. Sin embargo, hay áreas cruciales que necesitan mejoras, como la funcionalidad de red social, la implementación de un calendario, la inclusión de una sección de ayuda en línea y una mejor consistencia en la navegación.
+El proyecto **COOK IT!** ha recibido una evaluación exhaustiva en términos de usabilidad, utilizando técnicas como A/B testing, eye tracking y una evaluación de usabilidad general. Aquí se detallan algunos comentarios clave sobre esta evaluación:
 
-Los resultados del A/B testing indican que mientras los usuarios encuentran el diseño visualmente agradable, aspectos como la navegabilidad y la funcionalidad no están suficientemente desarrollados. La puntuación marginal en el cuestionario SUS refleja que los usuarios, especialmente aquellos con menos conocimientos tecnológicos, encuentran dificultades en el uso de la aplicación. El eye tracking revela que los usuarios se enfocan en elementos visuales prominentes, como imágenes y botones, pero podrían beneficiarse de una mejor orientación y claridad en las funciones de la aplicación. La falta de consistencia en los menús y la navegación confusa son áreas que deben ser priorizadas para mejorar la experiencia del usuario.
+### A/B Testing:
 
-A través de esta práctica, hemos aprendido la importancia de equilibrar estética y funcionalidad en el diseño de aplicaciones. Una interfaz atractiva no puede compensar por completo la falta de usabilidad y consistencia en la navegación. Además, hemos visto cómo técnicas como el eye tracking pueden proporcionar información valiosa sobre cómo los usuarios interactúan con una interfaz, permitiéndonos identificar qué elementos llaman más la atención y cuáles pueden estar causando confusión. Finalmente, el A/B testing nos ha permitido comparar diferentes versiones de la aplicación y entender mejor las preferencias y dificultades de los usuarios, guiándonos en la toma de decisiones para futuras mejoras.
+**Fortalezas:** La versión B del sitio, con un diseño más simplificado y visualmente atractivo, resultó ser más efectiva en mantener la atención de los usuarios y reducir la tasa de rebote. Esto resalta la importancia de un diseño claro y atractivo para mejorar la interacción del usuario.
+
+**Áreas de Mejora:** Continuar refinando el diseño visual y la estructura de contenido puede seguir optimizando la experiencia del usuario.
+
+### Eye Tracking:
+
+**Fortalezas:** El análisis reveló que los elementos visuales grandes y los contenidos destacados en la parte superior de la página capturan la mayor atención de los usuarios. Esto es positivo ya que estos elementos son cruciales para comunicar la propuesta de valor del sitio.
+
+**Áreas de Mejora:** Se observó que las áreas con mucho texto son ignoradas. Reducir la cantidad de texto y utilizar más elementos visuales puede ayudar a mantener el interés del usuario.
+
+### Evaluación de Usabilidad:
+
+**Fortalezas:** La estética del sitio y la claridad de las imágenes fueron aspectos muy valorados. Esto es crucial para una aplicación que se centra en experiencias culinarias, donde las imágenes atractivas pueden inspirar y motivar a los usuarios a participar.
+
+**Áreas de Mejora:** La navegación fue identificada como poco intuitiva y algunas secciones presentaban sobrecarga de información. Simplificar la navegación y presentar la información de manera más concisa puede mejorar significativamente la usabilidad del sitio.
+
+### Conclusiones y Aprendizajes
+
+En general, la evaluación del proyecto ha sido positiva, destacando elementos visuales fuertes y una propuesta atractiva. Sin embargo, también ha señalado áreas clave donde se pueden hacer mejoras significativas:
+
+**Diseño y Estructura:** Un diseño más limpio y una estructura simplificada son esenciales para mantener la atención del usuario y facilitar la navegación.
+
+**Contenido Visual:** Priorizar el contenido visual sobre el texto, especialmente en áreas clave, puede mejorar la interacción y la retención del usuario.
+
+**Navegación Intuitiva:** Simplificar la navegación y asegurar que los usuarios puedan encontrar fácilmente la información que buscan mejorará la experiencia general.
+El aprendizaje principal de esta evaluación es que, aunque el proyecto tiene una base sólida, hay oportunidades para optimizar la usabilidad y la experiencia del usuario mediante ajustes específicos en el diseño y la presentación del contenido. Estas mejoras no solo harán que el sitio sea más atractivo, sino también más funcional y accesible para los usuarios.
 
 
 
