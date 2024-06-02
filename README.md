@@ -320,27 +320,6 @@ Actividades estudiadas en el eye tracking
 
    ![c](P4/perfil_social.png)
 
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
 
 ## Paso 4. Evaluación 
 
