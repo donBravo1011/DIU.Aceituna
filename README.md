@@ -263,16 +263,62 @@ Tras crear personajes de usuario, específicamente María del Carmen y Pablo, y 
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
-Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder. Hemos reclutado 4 personas que se asimilan de cierta forma a nuestros usuarios ficticios y les hemos pedido que accedan a los enlaces y realicen las siguientes actividades (teniendo en cuenta que son simulaciones y no aplicación de uso totalmente funcional):
+Vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en este caso usaremos Gaze Recorder. Hemos reclutado 4 personas que se asimilan de cierta forma a nuestros usuarios ficticios y les hemos pedido que accedan a los enlaces y realicen las siguientes actividades (teniendo en cuenta que son simulaciones y no aplicaciónes de uso totalmente funcional). Para realizar el Eye Tracking se utilizaban las fotografias que procedian con la accion a realizar(Entre 2 y 3 por accion) y un intervalo de 6 segundos entre cada fotografia:
 
-Actividades estudiadas en el eye tracking:
+Actividades estudiadas en el eye tracking
 **COOK IT**:
-* Ver main page (observación) y reserva de taller
-* Ver perfil y configurar cuenta
+* Ver main page (observación) y reserva de taller:
+
+   **Los usuario se centran sobretodo en la primera imagen de la aplicacion.**
+
+   ![a](P4/main_cookit.png)
+
+   **Igualmente que en la anterior se puede ver como la foto es lo mas llamativo.**
+
+   ![b](P4/taller_cookit.png)
+
+   **En la cesta se puede ver como ha diferencia de las imagenes aqui se centran en el precido y los descuentos.**
+
+   ![c](P4/cesta_cookit.png)
+* Ver perfil y configurar cuenta:
+
+  **Como es de esperar los usuarios se centra en los campos que tienen que rellenar.**
+
+   ![a](P4/iniciar_cookit.png)
+
+   **Los usuarios perciben los cambios de la pagina principal con sus datos personales.**
+
+   ![b](P4/main_laura_cookit.png)
+
+   **Analogamente, siguen centrandose en los campos de su perfil.**
+
+   ![c](P4/configuracion_cookit.png)
 
 **SOCIAL COOKING**:
-* Ver main page (observación) y reserva de taller
-* Registrarse y ver perfil
+* Ver main page (observación) y reserva de taller:
+
+
+   **Los usuarios se centran en la primera imagen y en el menu de navegacion de la aplicacion.**
+
+   ![a](P4/main_social.png)
+
+  **En este caso se puede ver como resalta mucho el boton de reservar y los usuarios leen las caraceristicas del taller.**
+
+  ![b](P4/taller_social.png)
+* Registrarse y ver perfil:
+
+
+   **El boton de iniciar es lo que mas resalta con diferencia, ya que le da al usuario un camino el cual seguir.**
+
+  ![a](P4/iniciar_social.png)
+
+   **Los colores fuertes como el rojo son los mas llamativos para el usuario.**
+
+   ![b](P4/registrarse_social.png)
+
+  **En el perfil lo que mas destaca son sus campos y su fotografia de perfil.**
+
+   ![c](P4/perfil_social.png)
 
 Diseño del experimento 
 ----
