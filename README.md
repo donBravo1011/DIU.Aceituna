@@ -436,10 +436,11 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+En conclusión, la evaluación de la práctica utilizando técnicas de A/B testing, eye tracking, y un usability report nos ha proporcionado una visión integral de las fortalezas y debilidades de la aplicación SocialCooking. El diseño atractivo y la estética cuidada son puntos fuertes, ya que llaman la atención del usuario con un logo impactante, fuentes legibles y una paleta de colores vibrantes. Sin embargo, hay áreas cruciales que necesitan mejoras, como la funcionalidad de red social, la implementación de un calendario, la inclusión de una sección de ayuda en línea y una mejor consistencia en la navegación.
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+Los resultados del A/B testing indican que mientras los usuarios encuentran el diseño visualmente agradable, aspectos como la navegabilidad y la funcionalidad no están suficientemente desarrollados. La puntuación marginal en el cuestionario SUS refleja que los usuarios, especialmente aquellos con menos conocimientos tecnológicos, encuentran dificultades en el uso de la aplicación. El eye tracking revela que los usuarios se enfocan en elementos visuales prominentes, como imágenes y botones, pero podrían beneficiarse de una mejor orientación y claridad en las funciones de la aplicación. La falta de consistencia en los menús y la navegación confusa son áreas que deben ser priorizadas para mejorar la experiencia del usuario.
+
+A través de esta práctica, hemos aprendido la importancia de equilibrar estética y funcionalidad en el diseño de aplicaciones. Una interfaz atractiva no puede compensar por completo la falta de usabilidad y consistencia en la navegación. Además, hemos visto cómo técnicas como el eye tracking pueden proporcionar información valiosa sobre cómo los usuarios interactúan con una interfaz, permitiéndonos identificar qué elementos llaman más la atención y cuáles pueden estar causando confusión. Finalmente, el A/B testing nos ha permitido comparar diferentes versiones de la aplicación y entender mejor las preferencias y dificultades de los usuarios, guiándonos en la toma de decisiones para futuras mejoras.
 
 
 
