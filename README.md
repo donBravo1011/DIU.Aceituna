@@ -359,7 +359,7 @@ Elección y características
 ----
 
 Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) 
-![Cuestionario_SUS](P4/Cuestionario_SUS.png)
+![Cuestionario_SUS](P4/cuestionario_sus.png)
 ![Notas](P4/Puntuacion.png)
 
 **Cook it**(Caso A) ha obtenido una puntuación de 72.5 para Manolo y 87.5 para Sara respectivamente. La valoración según el cuestionario SUS sería de "Aceptable tipo C" para la puntuación de 72.5 y “Aceptable Tipo B” para la puntuación de 87.5.
