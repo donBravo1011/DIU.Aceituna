@@ -395,7 +395,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 
 # Puntos a mejorar:
 
-- Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la propia red social, ya sea mediante una función de busqueda o un timeline.
+- Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la aplicación, ya sea mediante una función de busqueda o un timeline.
 - La bottom navigation bar se recomienda que sea estatíca, ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
 - Implementar un calendario funcional (Ya que hay un icono en el main page pero no está implementado).
 - Que la simulación contenga algún tipo de scrolling, para añadir profundidad a la aplicación.
