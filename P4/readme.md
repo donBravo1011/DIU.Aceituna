@@ -12,10 +12,10 @@ en las que los usuarios dispondrán de perfiles personalizables a partir los cua
   
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil Cubierto | Plataforma | TestA/B | Sus SCORE
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | -------
-| #1 Manolo     | Hombre, 70   | Jubilado    | Baja       | Persona anciana, fan de la fotografía, que se siente feliz | Teléfono       | A | 72,5
-| #2 Sara  | Mujer, 22   | Estudiante  | Alta       | Persona trabajadora, fan del estudio, que se siente triste | Teléfono        | A | 87,5
-| #3 Toñi  | Mujer, 58   | Banquera     | Alta        | Persona minusválida, fan de los idiomas, que tiene miedo    | Teléfono      | B | 60
-| #4 Paco  | Hombre, 35   | Empresario  | Media       | Persona familiar, fan de los deportes, que se siente sorprendido | Teléfono        | B | 52,5
+| #1 Manolo     | Hombre, 70   | Jubilado    | Baja       | Persona anciana, fan de la fotografía, que se siente feliz | Teléfono       | A | 70
+| #2 Sara  | Mujer, 22   | Estudiante  | Alta       | Persona trabajadora, fan del estudio, que se siente triste | Teléfono        | A | 80
+| #3 Toñi  | Mujer, 58   | Banquera     | Alta        | Persona minusválida, fan de los idiomas, que tiene miedo    | Teléfono      | B | 66
+| #4 Paco  | Hombre, 35   | Empresario  | Media       | Persona familiar, fan de los deportes, que se siente sorprendido | Teléfono        | B | 57,5
 
 Elección y características
 
@@ -91,11 +91,11 @@ Actividades estudiadas en el eye tracking
 ![Cuestionario_SUS](Cuestionario_SUS.png)
 ![Notas](Puntuacion.png)
 
-**Cook it**(Caso A) ha obtenido una puntuación de 72.5 para Manolo y 87.5 para Sara respectivamente. La valoración según el cuestionario SUS sería de "Aceptable tipo C" para la puntuación de 72.5 y “Aceptable Tipo B” para la puntuación de 87.5.
+**Cook it**(Caso A) ha obtenido una puntuación de 70 para Manolo y 80 para Sara respectivamente. La valoración según el cuestionario SUS sería de "Aceptable tipo C" para la puntuación de 70 y “Aceptable Tipo B” para la puntuación de 80.
 
-Creemos que esto se ve afectado sobre todo por la edad y los conocimientos tecnológicos, que pueden dificultar el uso de la aplicación y a la hora de visualizar y entender los iconos, que por su tamaño pueden ser más dificiles de ver y/o entender. 
+Creemos que esto se ve afectado sobre todo por la edad, los gustos personales del usuario, y los conocimientos tecnológicos, que pueden dificultar el uso de la aplicación y a la hora de visualizar y entender los iconos, que por su tamaño pueden ser más dificiles de ver y/o entender. 
 
-**SocialCooking** (Caso B) ha obtenido una puntuación de 60 para Toñi y 52.5 para Paco respectivamente. La valoración según el cuestionario SUS sería de "Marginal tipo D" para la puntuación de 60 y “Marginal” para la puntuación de 50.
+**SocialCooking** (Caso B) ha obtenido una puntuación de 65 para Toñi y 57.5 para Paco respectivamente. La valoración según el cuestionario SUS sería de "Marginal tipo D" para la puntuación de 65 y “Marginal” para la puntuación de 57.5.
 
 Creemos que esto se debe a la escasez de profundización a la hora de realizar la simulación de la aplicación, a pesar de que su estetíca es bonita y limpia, en el caso de Toñi se encontraba muy interesada en el aspecto de red social de la aplicación, pero solo está implementado que se pueda compartir tu propio perfil de forma que tendría que compartirlo a alguien entre sus contactos, ¿Como conoce a más gente que esté interesada en la cocina de esta forma?. 
 
@@ -123,16 +123,15 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 
 # Puntos a mejorar:
 
-- Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la propia red social, ya sea mediante una función de busqueda o un timeline.
-- El botom bar debería de ser estatíco, ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
-- Añadir un calendario funcional (Ya que hay un icono en main page pero no está implementado), que muestre los talleres que hay disponibles ese dia.
-- Los usuarios tienen un Dato llamado Nivel, pero no se indica como puede aumentar de nivel un usuario, podría ir aumentando según el número de talleres que ha atendido y la dificultad de estos, lo cual fomentaria a los usuarios a adquirir más talleres.
+- Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la aplicación, ya sea mediante una función de busqueda o un timeline.
+- La bottom navigation bar se recomienda que sea estatíca (Que no cambien los iconos), ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
+- Se recomienda implementar un calendario funcional que muestre los talleres según la fecha de realización (Ya que hay un icono en el main page pero no está implementado).
 - Que la simulación contenga algún tipo de scrolling, para añadir profundidad a la aplicación.
-- Que se permita dejar reseñas en los cursos que los usuarios ya hayan atendido, para que otros usuarios que no han atendido el curso tengan algún respaldo para realizar la decisión de compra.
-- No hay ninguna sección de ayuda en linea o FAQ, lo cual permite a los usuarios eliminar sus dudas.
-- No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
-- Hay un sidebar pero no sabemos que puede contener.
-
+- Se recomienda que se permita dejar reseñas en los talleres, para que otros usuarios que estén interesados tengan más información a la hora de realizar la compra.
+- No hay ninguna sección de ayuda en linea o FAQ, lo cual permite a los usuarios satisfacer sus dudas.
+- Se recomienda implementar un carrito de compra para que los usuarios puedan finalizar la compra de los talleres.
+- No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible, esto se podría incluir en una sección "Sobre Nosotros".
+- Hay un sidebar pero no tiene ninguna funcionalidad, aquí se podrían incluir secciones como el carrito de la compra, ayuda en línea o la búsqueda de perfiles de otros usuarios.
 
 
 
