@@ -396,13 +396,14 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 # Puntos a mejorar:
 
 - Profundizar más en el aspecto de Red Social, de forma que el usuario pueda acceder a los distintos perfiles desde la aplicación, ya sea mediante una función de busqueda o un timeline.
-- La bottom navigation bar se recomienda que sea estatíca, ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
-- Implementar un calendario funcional (Ya que hay un icono en el main page pero no está implementado).
+- La bottom navigation bar se recomienda que sea estatíca (Que no cambien los iconos), ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
+- Se recomienda implementar un calendario funcional que muestre los talleres según la fecha de realización (Ya que hay un icono en el main page pero no está implementado).
 - Que la simulación contenga algún tipo de scrolling, para añadir profundidad a la aplicación.
-- Que se permita dejar reseñas en los cursos que los usuarios hayan atendido, para que otros usuarios que no han atendido el curso tengan algún respaldo para realizar la decisión de compra.
+- Se recomienda que se permita dejar reseñas en los talleres que los usuarios hayan asistido, para que otros usuarios que estén interesados tengan algún feedback a la hora de realizar la compra.
 - No hay ninguna sección de ayuda en linea o FAQ, lo cual permite a los usuarios eliminar sus dudas.
-- No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible.
-- Hay un sidebar pero no sabemos que puede contener.
+- Se recomienda implementar un carrito de compra para que los usuarios puedan finalizar la compra de los talleres.
+- No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible, esto se podría incluir en una sección "Sobre Nosotros".
+- Hay un sidebar pero no tiene ninguna funcionalidad, aquí se podrían incluir secciones como el carrito de la compra, ayuda en línea o la búsqueda de perfiles de otros usuarios.
 
 
 
