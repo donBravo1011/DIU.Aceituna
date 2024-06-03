@@ -399,7 +399,7 @@ Después de realizar las anteriores pruebas, hemos llegado a la siguentes conclu
 - La bottom navigation bar se recomienda que sea estatíca (Que no cambien los iconos), ya que puede confundir al usuario cuando intente encontrar algo que antes se mostraba en ella pero ha cambiado.
 - Se recomienda implementar un calendario funcional que muestre los talleres según la fecha de realización (Ya que hay un icono en el main page pero no está implementado).
 - Que la simulación contenga algún tipo de scrolling, para añadir profundidad a la aplicación.
-- Se recomienda que se permita dejar reseñas en los talleres que los usuarios hayan asistido, para que otros usuarios que estén interesados tengan algún feedback a la hora de realizar la compra.
+- Se recomienda que se permita dejar reseñas en los talleres, para que otros usuarios que estén interesados tengan más información a la hora de realizar la compra.
 - No hay ninguna sección de ayuda en linea o FAQ, lo cual permite a los usuarios eliminar sus dudas.
 - Se recomienda implementar un carrito de compra para que los usuarios puedan finalizar la compra de los talleres.
 - No hay información sobre donde se encuentra la empresa, este aspecto es muy importante para usuarios como Toñi, que necesitan saber si la zona donde transcurren los cursos es accesible, esto se podría incluir en una sección "Sobre Nosotros".
