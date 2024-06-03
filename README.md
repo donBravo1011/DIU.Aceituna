@@ -366,7 +366,7 @@ Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario c
 
 Creemos que esto se ve afectado sobre todo por la edad y los conocimientos tecnológicos, y los intereses de los usuarios, que pueden dificultar el uso de la aplicación y a la hora de visualizar y entender los iconos, que por su tamaño pueden ser más dificiles de ver y/o entender. 
 
-**SocialCooking** (Caso B) ha obtenido una puntuación de 65 para Toñi y 55 para Paco respectivamente. La valoración según el cuestionario SUS sería de "Marginal tipo D" para la puntuación de 65 y “Marginal” para la puntuación de 55.
+**SocialCooking** (Caso B) ha obtenido una puntuación de 65 para Toñi y 57.5 para Paco respectivamente. La valoración según el cuestionario SUS sería de "Marginal tipo D" para la puntuación de 65 y “Marginal” para la puntuación de 57.5.
 
 Creemos que esto se debe a la escasez de profundización a la hora de realizar la simulación de la aplicación, a pesar de que su estetíca es bonita y limpia, en el caso de Toñi se encontraba muy interesada en el aspecto de red social de la aplicación, pero solo está implementado que se pueda compartir tu propio perfil de forma que tendría que compartirlo a alguien entre sus contactos, ¿Como conoce a más gente que esté interesada en la cocina de esta forma?. 
 
